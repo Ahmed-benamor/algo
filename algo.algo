@@ -1,0 +1,23 @@
+ALGORITHM algorithm 
+VAR
+A , c,  B; INTEGER 
+Aioeu : voyelle 
+BEGIN
+ecrire (entré La phrase)
+lire (C)
+C = text.length
+pour i de 0 a n faire 
+si (text.length == "") alors
+A=A+1
+B=C-A
+fin pour 
+fin si 
+pour i de 0 a n faire 
+si (text[i] === 'a' || text[i] === 'o || ,text[i] === 'i''|| text[i] === 'e' || text[i] === 'i' )
+D=D+1
+fin pour 
+fin si 
+lire (A)
+Lire (B)
+Lire (D)
+END    
